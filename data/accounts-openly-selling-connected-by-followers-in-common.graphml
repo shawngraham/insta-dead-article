@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="in-degree" attr.type="string" for="node" id="in-degree"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="pagerank" attr.type="string" for="node" id="pagerank"/>
+<key attr.name="mergeddegree" attr.type="string" for="node" id="mergeddegree"/>
+<key attr.name="newlabel" attr.type="int" for="node" id="newlabel"/>
+<key attr.name="out-degree" attr.type="string" for="node" id="out-degree"/>
+<key attr.name="mmnt-edgetype" attr.type="string" for="edge" id="mmnt-edgetype"/>
+<graph edgedefault="undirected">
+<node id="1">
+<data key="label">1</data>
+<data key="in-degree">5795</data>
+<data key="modularity_class">0</data>
+<data key="degree">19</data>
+<data key="pagerank">0.07289946210017338</data>
+<data key="mergeddegree">5798</data>
+<data key="newlabel">1</data>
+<data key="out-degree">3</data>
+<data key="size">100.0</data>
+<data key="r">40</data>
+<data key="g">179</data>
+<data key="b">106</data>
+<data key="x">-367.34946</data>
+<data key="y">-40.930904</data>
+</node>
+<node id="2">
+<data key="label">2</data>
+<data key="in-degree">2444</data>
+<data key="modularity_class">1</data>
+<data key="degree">19</data>
+<data key="pagerank">0.06738757589999682</data>
+<data key="mergeddegree">2446</data>
+<data key="newlabel">2</data>
+<data key="out-degree">2</data>
+<data key="size">100.0</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">-147.01207</data>
+<data key="y">-284.9931</data>
+</node>
+<node id="3">
+<data key="label">3</data>
+<data key="in-degree">1447</data>
+<data key="modularity_class">1</data>
+<data key="degree">18</data>
+<data key="pagerank">0.008452627765181818</data>
+<data key="mergeddegree">1448</data>
+<data key="newlabel">3</data>
+<data key="out-degree">1</data>
+<data key="size">86.28572</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">-26.918684</data>
+<data key="y">-652.13257</data>
+</node>
+<node id="4">
+<data key="label">4</data>
+<data key="in-degree">16485</data>
+<data key="modularity_class">1</data>
+<data key="degree">17</data>
+<data key="pagerank">0.06764217206035408</data>
+<data key="mergeddegree">16488</data>
+<data key="newlabel">4</data>
+<data key="out-degree">3</data>
+<data key="size">72.57143</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">75.49223</data>
+<data key="y">-965.2148</data>
+</node>
+<node id="5">
+<data key="label">5</data>
+<data key="in-degree">2462</data>
+<data key="modularity_class">1</data>
+<data key="degree">17</data>
+<data key="pagerank">0.06239523450724422</data>
+<data key="mergeddegree">2471</data>
+<data key="newlabel">5</data>
+<data key="out-degree">9</data>
+<data key="size">72.57143</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">169.0619</data>
+<data key="y">-1251.2682</data>
+</node>
+<node id="6">
+<data key="label">6</data>
+<data key="in-degree">175</data>
+<data key="modularity_class">2</data>
+<data key="degree">17</data>
+<data key="pagerank">0.008452627765181818</data>
+<data key="mergeddegree">178</data>
+<data key="newlabel">6</data>
+<data key="out-degree">3</data>
+<data key="size">72.57143</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">-69.40476</data>
+<data key="y">6.5606847</data>
+</node>
+<node id="7">
+<data key="label">7</data>
+<data key="in-degree">4309</data>
+<data key="modularity_class">2</data>
+<data key="degree">17</data>
+<data key="pagerank">0.008452627765181818</data>
+<data key="mergeddegree">4309</data>
+<data key="newlabel">7</data>
+<data key="out-degree">0</data>
+<data key="size">72.57143</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">153.99274</data>
+<data key="y">208.2422</data>
+</node>
+<node id="8">
+<data key="label">8</data>
+<data key="in-degree">6667</data>
+<data key="modularity_class">2</data>
+<data key="degree">16</data>
+<data key="pagerank">0.06792707170074341</data>
+<data key="mergeddegree">6681</data>
+<data key="newlabel">8</data>
+<data key="out-degree">14</data>
+<data key="size">58.857147</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">356.2818</data>
+<data key="y">390.86716</data>
+</node>
+<node id="9">
+<data key="label">9</data>
+<data key="in-degree">8395</data>
+<data key="modularity_class">1</data>
+<data key="degree">16</data>
+<data key="pagerank">0.06260323521895614</data>
+<data key="mergeddegree">8410</data>
+<data key="newlabel">9</data>
+<data key="out-degree">15</data>
+<data key="size">58.857147</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">253.79039</data>
+<data key="y">-1510.293</data>
+</node>
+<node id="10">
+<data key="label">10</data>
+<data key="in-degree">10793</data>
+<data key="modularity_class">2</data>
+<data key="degree">16</data>
+<data key="pagerank">0.06227338237161351</data>
+<data key="mergeddegree">10801</data>
+<data key="newlabel">10</data>
+<data key="out-degree">8</data>
+<data key="size">58.857147</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">537.4625</data>
+<data key="y">554.43555</data>
+</node>
+<node id="11">
+<data key="label">11</data>
+<data key="in-degree">2356</data>
+<data key="modularity_class">2</data>
+<data key="degree">16</data>
+<data key="pagerank">0.052664384529606055</data>
+<data key="mergeddegree">2362</data>
+<data key="newlabel">11</data>
+<data key="out-degree">6</data>
+<data key="size">58.857147</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">718.6432</data>
+<data key="y">718.004</data>
+</node>
+<node id="12">
+<data key="label">12</data>
+<data key="in-degree">1624</data>
+<data key="modularity_class">2</data>
+<data key="degree">16</data>
+<data key="pagerank">0.008452627765181818</data>
+<data key="mergeddegree">1624</data>
+<data key="newlabel">12</data>
+<data key="out-degree">0</data>
+<data key="size">58.857147</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">899.8238</data>
+<data key="y">881.57263</data>
+</node>
+<node id="13">
+<data key="label">13</data>
+<data key="in-degree">677</data>
+<data key="modularity_class">2</data>
+<data key="degree">16</data>
+<data key="pagerank">0.008452627765181818</data>
+<data key="mergeddegree">677</data>
+<data key="newlabel">13</data>
+<data key="out-degree">0</data>
+<data key="size">58.857147</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">1081.0045</data>
+<data key="y">1045.1411</data>
+</node>
+<node id="14">
+<data key="label">14</data>
+<data key="in-degree">33107</data>
+<data key="modularity_class">0</data>
+<data key="degree">15</data>
+<data key="pagerank">0.057146561203783766</data>
+<data key="mergeddegree">33114</data>
+<data key="newlabel">14</data>
+<data key="out-degree">7</data>
+<data key="size">45.14286</data>
+<data key="r">40</data>
+<data key="g">179</data>
+<data key="b">106</data>
+<data key="x">-642.37823</data>
+<data key="y">81.302795</data>
+</node>
+<node id="15">
+<data key="label">15</data>
+<data key="in-degree">3602</data>
+<data key="modularity_class">0</data>
+<data key="degree">15</data>
+<data key="pagerank">0.05731258921801318</data>
+<data key="mergeddegree">3609</data>
+<data key="newlabel">15</data>
+<data key="out-degree">7</data>
+<data key="size">45.14286</data>
+<data key="r">40</data>
+<data key="g">179</data>
+<data key="b">106</data>
+<data key="x">-813.45905</data>
+<data key="y">157.33792</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="in-degree">544</data>
+<data key="modularity_class">2</data>
+<data key="degree">15</data>
+<data key="pagerank">0.05272405103992294</data>
+<data key="mergeddegree">549</data>
+<data key="newlabel">16</data>
+<data key="out-degree">5</data>
+<data key="size">45.14286</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">1241.0768</data>
+<data key="y">1189.6531</data>
+</node>
+<node id="17">
+<data key="label">17</data>
+<data key="in-degree">2605</data>
+<data key="modularity_class">2</data>
+<data key="degree">14</data>
+<data key="pagerank">0.05241266633509065</data>
+<data key="mergeddegree">2609</data>
+<data key="newlabel">17</data>
+<data key="out-degree">4</data>
+<data key="size">31.42857</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">1358.9321</data>
+<data key="y">1296.0519</data>
+</node>
+<node id="18">
+<data key="label">18</data>
+<data key="in-degree">593</data>
+<data key="modularity_class">2</data>
+<data key="degree">14</data>
+<data key="pagerank">0.04261353574285541</data>
+<data key="mergeddegree">599</data>
+<data key="newlabel">18</data>
+<data key="out-degree">6</data>
+<data key="size">31.42857</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">1455.6791</data>
+<data key="y">1383.3943</data>
+</node>
+<node id="19">
+<data key="label">19</data>
+<data key="in-degree">8610</data>
+<data key="modularity_class">0</data>
+<data key="degree">13</data>
+<data key="pagerank">0.05225208571199657</data>
+<data key="mergeddegree">8615</data>
+<data key="newlabel">19</data>
+<data key="out-degree">5</data>
+<data key="size">17.714285</data>
+<data key="r">40</data>
+<data key="g">179</data>
+<data key="b">106</data>
+<data key="x">-932.56604</data>
+<data key="y">210.27379</data>
+</node>
+<node id="20">
+<data key="label">20</data>
+<data key="in-degree">36931</data>
+<data key="modularity_class">0</data>
+<data key="degree">12</data>
+<data key="pagerank">0.04226616106581451</data>
+<data key="mergeddegree">36936</data>
+<data key="newlabel">20</data>
+<data key="out-degree">5</data>
+<data key="size">4.0</data>
+<data key="r">40</data>
+<data key="g">179</data>
+<data key="b">106</data>
+<data key="x">-973.71204</data>
+<data key="y">228.5607</data>
+</node>
+<node id="21">
+<data key="label">21</data>
+<data key="in-degree">1883</data>
+<data key="modularity_class">2</data>
+<data key="degree">12</data>
+<data key="pagerank">0.0427768377608906</data>
+<data key="mergeddegree">1893</data>
+<data key="newlabel">21</data>
+<data key="out-degree">10</data>
+<data key="size">4.0</data>
+<data key="r">154</data>
+<data key="g">150</data>
+<data key="b">229</data>
+<data key="x">1510.2092</data>
+<data key="y">1432.6235</data>
+</node>
+<node id="22">
+<data key="label">22</data>
+<data key="in-degree">708</data>
+<data key="modularity_class">1</data>
+<data key="degree">12</data>
+<data key="pagerank">0.042439884509357824</data>
+<data key="mergeddegree">722</data>
+<data key="newlabel">22</data>
+<data key="out-degree">14</data>
+<data key="size">4.0</data>
+<data key="r">249</data>
+<data key="g">119</data>
+<data key="b">67</data>
+<data key="x">294.31268</data>
+<data key="y">-1634.1746</data>
+</node>
+<edge source="5" target="22">
+<data key="edgeid">0</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">117.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="9">
+<data key="edgeid">1</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">276.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="19">
+<data key="edgeid">2</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">618.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="8">
+<data key="edgeid">3</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">527.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="20">
+<data key="edgeid">4</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">854.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="14">
+<data key="edgeid">5</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">678.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="11">
+<data key="edgeid">6</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">74.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="10">
+<data key="edgeid">7</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">253.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="13">
+<data key="edgeid">8</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="6">
+<data key="edgeid">9</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">5.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="15">
+<data key="edgeid">10</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">210.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="3">
+<data key="edgeid">11</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">24.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="16">
+<data key="edgeid">12</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">49.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="2">
+<data key="edgeid">13</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">86.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="4">
+<data key="edgeid">14</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">363.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="7">
+<data key="edgeid">15</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="5" target="12">
+<data key="edgeid">16</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="9">
+<data key="edgeid">17</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">247.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="8">
+<data key="edgeid">18</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">277.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="11">
+<data key="edgeid">19</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">56.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="13">
+<data key="edgeid">20</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="6">
+<data key="edgeid">21</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">12.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="3">
+<data key="edgeid">22</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="16">
+<data key="edgeid">23</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">73.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="1">
+<data key="edgeid">24</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">81.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="4">
+<data key="edgeid">25</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">270.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="7">
+<data key="edgeid">26</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="22" target="12">
+<data key="edgeid">27</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="21">
+<data key="edgeid">28</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">452.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="8">
+<data key="edgeid">29</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1347.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="10">
+<data key="edgeid">30</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1040.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="13">
+<data key="edgeid">31</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="18">
+<data key="edgeid">32</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">112.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="6">
+<data key="edgeid">33</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">32.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="15">
+<data key="edgeid">34</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">711.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="3">
+<data key="edgeid">35</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">10.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="16">
+<data key="edgeid">36</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">92.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="1">
+<data key="edgeid">37</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">439.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="2">
+<data key="edgeid">38</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">234.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="4">
+<data key="edgeid">39</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1855.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="7">
+<data key="edgeid">40</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="9" target="12">
+<data key="edgeid">41</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="8">
+<data key="edgeid">42</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">619.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="11">
+<data key="edgeid">43</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">99.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="13">
+<data key="edgeid">44</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="18">
+<data key="edgeid">45</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">71.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="6">
+<data key="edgeid">46</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">13.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="3">
+<data key="edgeid">47</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="16">
+<data key="edgeid">48</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">70.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="1">
+<data key="edgeid">49</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">202.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="2">
+<data key="edgeid">50</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">122.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="7">
+<data key="edgeid">51</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">5.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="21" target="12">
+<data key="edgeid">52</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="8">
+<data key="edgeid">53</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2113.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="20">
+<data key="edgeid">54</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3425.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="14">
+<data key="edgeid">55</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2686.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="11">
+<data key="edgeid">56</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">176.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="13">
+<data key="edgeid">57</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="15">
+<data key="edgeid">58</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">673.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="3">
+<data key="edgeid">59</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">23.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="1">
+<data key="edgeid">60</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">506.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="2">
+<data key="edgeid">61</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">221.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="4">
+<data key="edgeid">62</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1449.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="7">
+<data key="edgeid">63</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">8.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="19" target="12">
+<data key="edgeid">64</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">12.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="14">
+<data key="edgeid">65</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2430.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="11">
+<data key="edgeid">66</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">227.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="10">
+<data key="edgeid">67</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">989.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="13">
+<data key="edgeid">68</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="18">
+<data key="edgeid">69</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">179.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="17">
+<data key="edgeid">70</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">369.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="6">
+<data key="edgeid">71</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">22.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="16">
+<data key="edgeid">72</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">118.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="4">
+<data key="edgeid">73</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1468.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="7">
+<data key="edgeid">74</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">13.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="8" target="12">
+<data key="edgeid">75</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">15.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="14">
+<data key="edgeid">76</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4995.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="13">
+<data key="edgeid">77</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">10.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="6">
+<data key="edgeid">78</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">20.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="15">
+<data key="edgeid">79</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">998.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="3">
+<data key="edgeid">80</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">39.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="1">
+<data key="edgeid">81</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1384.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="2">
+<data key="edgeid">82</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">403.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="4">
+<data key="edgeid">83</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2231.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="7">
+<data key="edgeid">84</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">22.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="20" target="12">
+<data key="edgeid">85</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">30.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="10">
+<data key="edgeid">86</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1791.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="13">
+<data key="edgeid">87</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">9.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="6">
+<data key="edgeid">88</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">25.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="15">
+<data key="edgeid">89</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1285.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="3">
+<data key="edgeid">90</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">40.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="16">
+<data key="edgeid">91</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">124.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="1">
+<data key="edgeid">92</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">855.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="2">
+<data key="edgeid">93</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">373.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="4">
+<data key="edgeid">94</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2701.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="7">
+<data key="edgeid">95</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">18.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="14" target="12">
+<data key="edgeid">96</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">31.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="10">
+<data key="edgeid">97</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">172.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="13">
+<data key="edgeid">98</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="18">
+<data key="edgeid">99</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">48.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="17">
+<data key="edgeid">100</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">71.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="6">
+<data key="edgeid">101</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">9.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="3">
+<data key="edgeid">102</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">7.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="16">
+<data key="edgeid">103</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">21.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="1">
+<data key="edgeid">104</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">86.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="2">
+<data key="edgeid">105</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">54.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="7">
+<data key="edgeid">106</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="11" target="12">
+<data key="edgeid">107</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="13">
+<data key="edgeid">108</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="18">
+<data key="edgeid">109</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">88.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="17">
+<data key="edgeid">110</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">201.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="6">
+<data key="edgeid">111</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">16.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="15">
+<data key="edgeid">112</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">490.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="3">
+<data key="edgeid">113</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="16">
+<data key="edgeid">114</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">101.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="1">
+<data key="edgeid">115</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">294.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="2">
+<data key="edgeid">116</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">186.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="7">
+<data key="edgeid">117</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">9.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="10" target="12">
+<data key="edgeid">118</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">21.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="18">
+<data key="edgeid">119</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="17">
+<data key="edgeid">120</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="15">
+<data key="edgeid">121</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="1">
+<data key="edgeid">122</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="2">
+<data key="edgeid">123</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="13" target="4">
+<data key="edgeid">124</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="17">
+<data key="edgeid">125</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">95.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="6">
+<data key="edgeid">126</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="3">
+<data key="edgeid">127</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="1">
+<data key="edgeid">128</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">56.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="2">
+<data key="edgeid">129</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">46.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="4">
+<data key="edgeid">130</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">146.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="7">
+<data key="edgeid">131</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="18" target="12">
+<data key="edgeid">132</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="6">
+<data key="edgeid">133</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">10.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="15">
+<data key="edgeid">134</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">255.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="3">
+<data key="edgeid">135</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">3.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="16">
+<data key="edgeid">136</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">58.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="1">
+<data key="edgeid">137</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">110.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="2">
+<data key="edgeid">138</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">86.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="4">
+<data key="edgeid">139</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">315.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="7">
+<data key="edgeid">140</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">5.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="17" target="12">
+<data key="edgeid">141</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="15">
+<data key="edgeid">142</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">17.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="3">
+<data key="edgeid">143</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="16">
+<data key="edgeid">144</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">7.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="1">
+<data key="edgeid">145</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="2">
+<data key="edgeid">146</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">5.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="6" target="4">
+<data key="edgeid">147</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">20.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="3">
+<data key="edgeid">148</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">9.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="16">
+<data key="edgeid">149</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">87.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="1">
+<data key="edgeid">150</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">179.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="2">
+<data key="edgeid">151</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">199.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="7">
+<data key="edgeid">152</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="15" target="12">
+<data key="edgeid">153</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">8.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="3" target="16">
+<data key="edgeid">154</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="3" target="1">
+<data key="edgeid">155</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">8.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="3" target="2">
+<data key="edgeid">156</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="3" target="4">
+<data key="edgeid">157</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">16.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="3" target="7">
+<data key="edgeid">158</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">1.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="16" target="1">
+<data key="edgeid">159</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">38.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="16" target="2">
+<data key="edgeid">160</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">37.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="16" target="4">
+<data key="edgeid">161</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">119.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="1" target="2">
+<data key="edgeid">162</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">92.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="1" target="4">
+<data key="edgeid">163</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">476.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="1" target="7">
+<data key="edgeid">164</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">4.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="1" target="12">
+<data key="edgeid">165</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">5.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="2" target="4">
+<data key="edgeid">166</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">258.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="2" target="7">
+<data key="edgeid">167</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="2" target="12">
+<data key="edgeid">168</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">2.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="4" target="7">
+<data key="edgeid">169</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">11.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+<edge source="4" target="12">
+<data key="edgeid">170</data>
+<data key="edgelabel">y-y</data>
+<data key="weight">14.0</data>
+<data key="mmnt-edgetype">y&lt;---&gt;y</data>
+</edge>
+</graph>
+</graphml>
