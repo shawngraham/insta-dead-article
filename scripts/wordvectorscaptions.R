@@ -5,7 +5,6 @@ install_github("bmschmidt/wordVectors")
 
 install.packages("rtools")
 
-## get the diaries into WEM
 #install.packages('dplyr')
 library(rtools)
 library(wordVectors)
